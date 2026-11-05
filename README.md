@@ -11,6 +11,10 @@ seller performance, customer behavior, and review trends.
 > measured against the dataset's estimated delivery date, which is used
 > as a proxy rather than a verified contractual SLA.
 
+## Architecture
+![Alt Text for Image](https://github.com/PiyushVIT346/Business-Operations-Supply-Chain-Intelligence-Platform-/blob/main/Supply%20Chain%20Intelligence%20Architecture.png)
+
+
 ## Table of Contents
 
 -   [Business Problem](#business-problem)
@@ -58,6 +62,10 @@ questions using a structured warehouse and interactive reporting.
 7.  Document assumptions, data quality checks, and business
     recommendations.
 
+
+![Alt Text for Image](https://github.com/PiyushVIT346/Business-Operations-Supply-Chain-Intelligence-Platform-/blob/main/connection.jpg)
+
+
 ## Technology Stack
 
   -----------------------------------------------------------------------
@@ -85,6 +93,8 @@ documentation, Prefect for orchestration, and AWS services for cloud
 deployment.
 
 ## Dataset
+
+![Alt Text for Image](https://github.com/PiyushVIT346/Business-Operations-Supply-Chain-Intelligence-Platform-/blob/main/table_architecture.jpg)
 
 **Source:** [Brazilian E-Commerce Public Dataset by Olist on
 Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
